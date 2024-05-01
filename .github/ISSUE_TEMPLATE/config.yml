@@ -6,3 +6,4 @@ contact_links:
   - name: See all Issues
     url: https://github.com/YassaaaTU/immersive-adventure/issues
     about: Check out all open or closed issues/suggestions
+    target: "_self"
