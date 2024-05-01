@@ -3,3 +3,6 @@ contact_links:
   - name: Immersive Adventure Homepage
     url: https://modrinth.com/modpack/immersive-adventure
     about: "Huge props to the FTB team for making these ISSUE_TEMPLATEs!"
+  - name: See all Issues
+    url: https://github.com/YassaaaTU/immersive-adventure/issues
+    about: Check out all open or closed issues/suggestions
