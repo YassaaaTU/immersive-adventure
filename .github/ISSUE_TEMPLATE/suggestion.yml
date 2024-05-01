@@ -1,0 +1,17 @@
+name: Suggestion
+description: Suggestion
+title: "[Suggestion]: "
+labels: ["Unverified"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your suggestion related to a problem? Please describe.
+      description: A clear and concise description of what the problem is.
+      placeholder: Ex. I'm always frustrated when [...]
+  - type: textarea
+    id: mod
+    attributes:
+      label: Your suggestion / enhancement idea
+      description: What would you like to see in the mod? Share your vision with us and it might just get realised!
+      placeholder: A clear and concise description of what the feature should add and why you would like it in this mod.
