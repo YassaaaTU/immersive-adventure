@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "name": "IA_customData",
+        "id": "immersive_adventures_custom_data_configuration",
+        "pack_format": 15,
+        "authors": [
+            "DeceasedGhost"
+        ],
+        "description": "Custom data pack for Immersive Adventures."
+    }
+}

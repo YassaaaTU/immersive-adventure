@@ -1,0 +1,18 @@
+# Ignore list
+local/
+downlods/
+logs/
+modernfix/
+profileImage/
+saves/
+schematics/
+screenshots/
+Xaero*
+.curseflient
+minecraftinstance.json
+observable*
+options.txt
+patchouli*
+rhino*
+usercache.json
+usernamecache.json
